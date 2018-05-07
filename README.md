@@ -3,7 +3,7 @@
 It was a coding assignment given under the Bachelors course **Design &amp; Analysis of Algorithms** in Spring 2015
 
 
-Following sorting algorithms were implemented:
+### Algorithms Implemented:
 1. Bubble Sort
 2. Selection Sort
 3. Insertion Sort
@@ -18,9 +18,10 @@ Following sorting algorithms were implemented:
 8. Radix Sort
 9. Shell Sort
 
-Besides just running the sorting algorithms, the program also performs comparison of two algorithms. The algorithm takes the following options a sinput:
+### Comparison
+Besides just running the sorting algorithms, the program also performs comparison of two algorithms. The algorithm takes the following parameters as input from the user:
 
-1. Select two algorithms for comparison
+1. Two algorithms for comparison
 2. Total data size
 3. Data range
    - Starting value
