@@ -19,7 +19,7 @@ It was a coding assignment given under the Bachelors course **Design &amp; Analy
 9. Shell Sort
 
 ### Comparison
-Besides just running the sorting algorithms, the program also performs comparison of two algorithms. The algorithm takes the following parameters as input from the user:
+Besides just running the sorting algorithms, the program also does performance comparison of two sorting algorithms based on running time. The algorithm takes the following parameters as input from the user:
 
 1. Two algorithms for comparison
 2. Total data size
